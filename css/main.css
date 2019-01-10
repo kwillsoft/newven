@@ -71,7 +71,7 @@ html, body {
 
 body {
   background: #d0ff9b;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.7rem;
   font-style: normal;
   font-weight: normal;
@@ -230,7 +230,7 @@ p img {
 }
 
 p.lead {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 2.4rem;
   line-height: 1.75;
   margin-bottom: 3.6rem;
@@ -260,11 +260,11 @@ em, i, strong, b {
 }
 
 em, i {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
 }
 
 strong, b {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-weight: normal;
 }
 
@@ -292,7 +292,7 @@ blockquote:before {
 }
 
 blockquote p {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   padding: 0;
   font-size: 2.1rem;
   line-height: 1.857;
@@ -318,7 +318,7 @@ blockquote cite a:visited {
 }
 
 abbr {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-variant: small-caps;
   text-transform: lowercase;
   letter-spacing: 0.05rem;
@@ -482,7 +482,7 @@ table {
   border-width: 0;
   width: 100%;
   max-width: 100%;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
 }
 
 th,
@@ -494,7 +494,7 @@ td {
 
 th {
   color: #000000;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-weight: normal;
 }
 
@@ -668,7 +668,7 @@ select {
   border: 0;
   outline: none;
   color: #151515;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.5rem;
   line-height: 3rem;
   max-width: 100%;
@@ -745,7 +745,7 @@ select:focus {
 
 label,
 legend {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.4rem;
   font-weight: normal;
   margin-bottom: 0.9rem;
@@ -762,7 +762,7 @@ input[type="radio"] {
 label > .label-text {
   display: inline-block;
   margin-left: 1rem;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-weight: normal;
   line-height: inherit;
 }
@@ -828,7 +828,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   display: inline-block;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
@@ -951,7 +951,7 @@ input::-moz-focus-inner {
   position: relative;
   margin-bottom: 3rem;
   border-radius: 3px;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.5rem;
   line-height: 1.6;
 }
@@ -992,7 +992,7 @@ input::-moz-focus-inner {
   margin: 0;
   padding: 1.5rem 0.6rem 0 0;
   font-size: 8.4rem;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-weight: normal;
   line-height: 6rem;
   text-indent: 0;
@@ -1112,7 +1112,7 @@ input::-moz-focus-inner {
 .stats-tabs li a {
   display: inline-block;
   font-size: 2.5rem;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-weight: normal;
   border: none;
   color: #000000;
@@ -1124,7 +1124,7 @@ input::-moz-focus-inner {
   display: block;
   margin: 0.6rem 0 0 0;
   font-size: 1.4rem;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   color: #626262;
 }
 
@@ -1148,7 +1148,7 @@ input::-moz-focus-inner {
   position: absolute;
   left: 0;
   top: -3rem;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   color: #000000;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
@@ -1165,7 +1165,7 @@ input::-moz-focus-inner {
   right: 0;
   top: -3.6rem;
   display: block;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   color: #ffffff;
   font-size: 1.1rem;
   line-height: 1;
@@ -1267,7 +1267,7 @@ input::-moz-focus-inner {
  * ## display headings
  * ------------------------------------------------------------------- */
 .display-1 {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 6rem;
   line-height: 1.3;
   letter-spacing: 0;
@@ -1281,7 +1281,7 @@ input::-moz-focus-inner {
 }
 
 .subhead {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.6rem;
   line-height: 1.3125;
   text-transform: uppercase;
@@ -1430,7 +1430,7 @@ input::-moz-focus-inner {
   color: white;
 }
 .header-nav h3 {
- font-family: 'Special Elite', cursive;
+ font-family: 'Pontano Sans', sans-serif;
   font-size: 11px;
   line-height: 1.363;
   text-transform: uppercase;
@@ -1452,7 +1452,7 @@ input::-moz-focus-inner {
 }
 
 .header-nav__list {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.6rem;
   margin: 3.6rem 0 3rem 0;
   padding: 0 0 1.8rem 0;
@@ -1476,7 +1476,7 @@ input::-moz-focus-inner {
 .header-nav__list a::before {
   content: counter(ctr, decimal-leading-zero) ".";
   counter-increment: ctr;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 11px;
   color: rgba(255, 255, 255, 0.25);
   -webkit-transition: all 0.5s ease-in-out;
@@ -1582,7 +1582,7 @@ input::-moz-focus-inner {
   width: 48px;
   height: 45px;
   line-height: 45px;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: 0.4rem;
@@ -1799,7 +1799,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .home-sidelinks {
   list-style: none;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.4rem;
   line-height: 1.714;
   text-transform: uppercase;
@@ -1843,7 +1843,7 @@ input::-moz-focus-inner {
 }
 .home-sidelinks span {
   display: block;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.5rem;
   line-height: 1.6rem;
   color: rgba(255, 255, 255, 0.5);
@@ -1867,7 +1867,7 @@ input::-moz-focus-inner {
 }
 .home-scroll__text {
   display: inline-block;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 11px;
   line-height: 4.8rem;
   text-transform: uppercase;
@@ -1930,7 +1930,7 @@ input::-moz-focus-inner {
   display: none;
 }
 .home-social .home-social-title {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   padding-right: 4rem;
   margin-right: 0.8rem;
   position: relative;
@@ -2305,7 +2305,7 @@ html.no-csstransitions .home-content__main {
 .process__col::before {
   content: attr(data-item);
   display: block;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 2.1rem;
   text-align: center;
   color: #ffffff;
@@ -2609,7 +2609,7 @@ html.no-csstransitions .home-content__main {
 
 .item-folio__cat {
   color: black;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.5rem;
   margin-bottom: 0;
 }
@@ -2621,7 +2621,7 @@ html.no-csstransitions .home-content__main {
 .item-folio__project-link {
   z-index: 500;
   display: block;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.3rem;
   color: #ffffff;
   background-color: #000000;
@@ -2857,14 +2857,14 @@ html.no-csstransitions .home-content__main {
 
 .testimonials__author {
   margin-top: 0rem;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.8rem;
   line-height: 1.5;
   color: #000000;
 }
 .testimonials__author span {
   display: block;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.4rem;
   line-height: 1.5;
   color: rgba(85, 85, 85, 0.7);
@@ -2956,7 +2956,7 @@ html.no-csstransitions .home-content__main {
   white-space: nowrap;
 }
 .stats__count {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 9.2rem;
   line-height: 1;
   color: #ffffff;
@@ -2978,7 +2978,7 @@ html.no-csstransitions .home-content__main {
   margin-left: -50px;
 }
 .stats h5 {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.8rem;
   line-height: 1.333;
   color: rgba(255, 255, 255, 0.5);
@@ -3048,7 +3048,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-email {
   display: inline-block;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 5.4rem;
   line-height: 1.222;
   color: #ffffff;
@@ -3067,14 +3067,14 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-number {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 3rem;
   line-height: 1.7;
   display: block;
 }
 
 .contact-address {
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 2.8rem;
   line-height: 1.607;
   margin-top: 2.4rem;
@@ -3161,7 +3161,7 @@ html.no-csstransitions .home-content__main {
 }
 .mc-form label {
   color: #ffffff;
-  font-family: "Thasadith", sans-serif;
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 1.3rem;
   padding: 0 2rem;
 }
