@@ -1883,7 +1883,7 @@ input::-moz-focus-inner {
   display: block;
   height: 4.8rem;
   width: 4.8rem;
-  background-color: #ffffff;
+  background-color: red;
   background-image: url(../images/icons/icon-arrow-down.svg);
   background-position: center center;
   background-repeat: no-repeat;
@@ -3209,8 +3209,8 @@ html.no-csstransitions .home-content__main {
   width: 60px;
   line-height: 60px;
   text-align: center;
-  background: black;
-  color: white;
+  background: red;
+  color: black;
   text-align: center;
   text-transform: uppercase;
   border-radius: 50%;
@@ -3223,8 +3223,8 @@ html.no-csstransitions .home-content__main {
 }
 .cl-go-top a:hover,
 .cl-go-top a:focus {
-  background-color: #ffffff;
-  color: #000000;
+  background-color: red;
+  color: black;
 }
 .cl-go-top::before {
   content: "";
